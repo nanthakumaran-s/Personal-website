@@ -130,6 +130,9 @@ body{
 .con {
   padding: 3%;
 }
+.bn {
+  border-radius: 5px;
+}
 
 /* End of Contact Section */
 /* Footer */
