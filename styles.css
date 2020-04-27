@@ -149,6 +149,13 @@ body{
   .navigation {
     padding: 2.5% 5%;
   }
+  .header-img-1 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    border: solid 3px;
+    border-color: grey;
+  }
   .title-section-text {
     font-size: 25px;
     line-height: 40px;
