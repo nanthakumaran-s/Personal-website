@@ -13,4 +13,6 @@ if (width < 600){
   $(".chain").attr("src","images/blockchain development logo @.png");
   $("i").removeClass("fa-5x");
   $("i").addClass("fa-3x");
+  $(".contact-").removeClass("btn-lg");
+  $(".contact-").addClass("btn-md");
 }
