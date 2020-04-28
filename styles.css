@@ -87,6 +87,11 @@ body{
 .github-python:hover{
   color: #7d5e2a;
 }
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
 
 /* End of Akill section */
 /* Social Media */
