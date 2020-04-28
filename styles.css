@@ -166,8 +166,13 @@ body{
   .about-text{
     font-size: 20px;
   }
-  .skills-item{
-    padding: 7% 10%;
+  .carousel-indicators {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .skills-item {
+    padding-left: 0%;
+    padding-right: 0%;
   }
   .skill-text {
     font-size: 20px;
