@@ -170,6 +170,10 @@ body{
     margin-left: 0%;
     margin-right: 0%;
   }
+  .carousel-inner {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
   .skills-item {
     padding-left: 0%;
     padding-right: 0%;
