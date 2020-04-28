@@ -176,6 +176,9 @@ body{
     margin-right: 0%;
     margin-top: 5%;
   }
+  .carousel-item{
+    padding-bottom: 5%;
+  }
   .carousel-inner {
     padding-right: 5%;
     padding-left: 5%;
