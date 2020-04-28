@@ -1,4 +1,3 @@
-height = window.screen.height;
 width = window.screen.width;
 
 $(".contact-").attr("href","https://forms.gle/ufqG3QhyAVF7wjSZ7");
@@ -15,4 +14,6 @@ if (width < 600){
   $("i").addClass("fa-3x");
   $(".contact-").removeClass("btn-lg");
   $(".contact-").addClass("btn-md");
+  $(".cr-1").removeClass("carousel-control-prev-icon");
+  $(".cr-2").removeClass("carousel-control-next-icon");
 }
