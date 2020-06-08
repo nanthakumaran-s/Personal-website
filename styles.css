@@ -164,6 +164,11 @@ body{
     border: solid 3px;
     border-color: grey;
   }
+  
+  .title-section-image{
+    width: 250px;
+    height: 170px
+  }
   .title-section-text {
     font-size: 25px;
     line-height: 40px;
